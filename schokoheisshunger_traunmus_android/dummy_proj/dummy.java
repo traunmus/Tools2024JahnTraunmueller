@@ -14,6 +14,7 @@ public class dummy {
 
         System.out.println("I want this to happen"); 
         int i = 0; 
+        System.out.println("normally working, nothing to see here");
 
     }
 }
