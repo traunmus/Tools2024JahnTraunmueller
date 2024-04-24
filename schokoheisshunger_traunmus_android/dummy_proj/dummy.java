@@ -13,7 +13,8 @@ public class dummy {
         System.out.println("This will create a conflict muhahahaha");
 
         System.out.println("I want this to happen"); 
-        int i = 0; 
-
+        int i = 0;
+        System.out.println("Line One for bug fix");
+        
     }
 }
