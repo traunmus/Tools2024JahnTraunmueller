@@ -13,4 +13,7 @@ public class dummy {
 		return costs;
 	}
     
+    public void thisIsANewMethod(){
+        
+    }
 }
