@@ -10,6 +10,7 @@ public class dummy {
 	}
     
     public void thisIsANewMethod(){
-        
+        System.out.println("I want this to happen"); 
+        int i = 0; 
     }
 }
