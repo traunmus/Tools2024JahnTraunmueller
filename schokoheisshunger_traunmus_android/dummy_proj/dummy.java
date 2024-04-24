@@ -18,5 +18,9 @@ public class dummy {
         System.out.println("normally working, nothing to see here");
         i += 10; 
 
+        int i = 0;
+        System.out.println("Line One for bug fix");
+        System.out.println("Line 2 for bug fix");
+        System.out.println("Line 3 for bug fix");
     }
 }
